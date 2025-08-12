@@ -10,7 +10,7 @@ REM #        cromeovl@gmail.com
 setlocal
 setlocal EnableDelayedExpansion
 
-REM *** CONFIGURACIÓN *** Las letras de unidad se quitan despues aqui se deman para mejorar lectura
+REM *** CONFIGURACIÓN *** Las letras de unidad se quitan despues. Aqui estan para mejorar lectura
 set "etiqueta_origen=usb_primero"
 set "etiqueta_destino=usb_segundo"
 set "directorio_origen=X:\datos\de\origen"
