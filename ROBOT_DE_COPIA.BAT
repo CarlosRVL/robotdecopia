@@ -8,6 +8,7 @@ REM #        cromeovl@gmail.com
 
 @echo off
 setlocal
+REM # Para expandir correctamente !variable! se debe habilitar:
 setlocal EnableDelayedExpansion
 
 REM *** CONFIGURACIÓN *** Las letras de unidad se quitan despues. Aqui estan para mejorar lectura
